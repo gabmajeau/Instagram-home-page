@@ -35,6 +35,6 @@ cd instagram-login-clone
 
 ![Preview](preview.PNG)
 
-Feel free to fork the project and customize it to practice your own design or layout ideas!
-⚠️ This is a front-end only project. It does not include any real login functionality and is intended for educational purposes only.
+- Feel free to fork the project and customize it to practice your own design or layout ideas!
+- ⚠️ This is a front-end only project. It does not include any real login functionality and is intended for educational purposes only.
 
